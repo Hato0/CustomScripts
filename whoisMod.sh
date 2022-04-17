@@ -1,8 +1,4 @@
 #!/bin/bash
-
-#si printfile=1 écrire également les domaines non libres? :  0 = non 1 = oui
-printnonfree=1
-
 tab_tld=( 
     '.com' 
     '.net' 
