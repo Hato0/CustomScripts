@@ -4,10 +4,12 @@ Multiple single scripts
 One project, here for development and single script usage. Will be merge into a new repo once done and fully opérationnal
 
 ## Recon Bounty Project (sumup)
+Will only go for passiv recon as much as possible
 ## Available functions
 ### Whois Information
 check whoisMod.py
 ### Subdomains
+check crtMod.py
 ### Dir info
 ### S3 Buckets
 ### social accounts
