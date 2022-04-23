@@ -36,5 +36,7 @@ This script has been build to automate the recon phase as much as possible durin
 
 
 # Requiments 
-Nothing (for now)  
+## Apt package
+jq
+## Platform
 Should be compatible with Mac/Linux
