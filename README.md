@@ -8,16 +8,24 @@ Will only go for passiv recon as much as possible for the v1
 V2 will contain more active recon
 ## Available functions
 ### Whois Information
-check whoisMod.py
+Script available at : whoisMod.py
+This script is devided in two mode :
+* Get whois data for multiple domains
+* Check the availability of a domain with different TLD (usefull for phishing setup)
 ### Subdomains
-check crtMod.py
-Second method will be available in v2
+Script available at : crtMod.py
+This script allow you to search for the following information:
+* Retrieve subdomains for a given domain (using certificate database)
+* Retrieve certificates issuer to establish potential non compliant subdomains websites
+Second method will be available in v2.
 ### Dir info
 Will be available in the v2
 ### S3 Buckets
 Will be available in the v2
 ### social accounts
-check socialsMod.py
+Script available at : socialsMod.py
+This script allow you to retrieve open source information for a given company using LinkedIn.
+You will need a LinkedIn cookie to use it. 
 ### API Endpoints
 ### emails
 ### Vhosts
@@ -26,6 +34,9 @@ check socialsMod.py
 ### Service version info (if applicable)
 ### server banners
 ### directory listings
+Script available at : linkMod.sh
+This script can extract every link available on a given website (local and remote).
+This will help you to indentify potential connections to external services and identify potential file of interest.
 ### presence security headers
 ### WAF (+ WAF type)
 
