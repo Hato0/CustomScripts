@@ -13,11 +13,10 @@ This script is devided in two mode :
 * Get whois data for multiple domains
 * Check the availability of a domain with different TLD (usefull for phishing setup)
 ### Subdomains
-Script available at : crtMod.py<br />
-This script allow you to search for the following information:
+Script available : crtMod.sh / waybackMod.sh / dorksMod.sh<br />
+These scripts allow you to search for the following information:
 * Retrieve subdomains for a given domain (using certificate database)
 * Retrieve certificates issuer to establish potential non compliant subdomains websites
-Second method will be available in v2.
 ### Dir info
 Will be available in the v2
 ### S3 Buckets
